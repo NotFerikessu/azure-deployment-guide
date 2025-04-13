@@ -611,9 +611,14 @@ Host {nom de l'utilisateur}_tp2
 
 Version définitive mise en page au format Markdown par ChatGPT le dimanche 13 avril 2025.
 
+---
+
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+**This project is licensed under the [MIT License](LICENSE).**  
+You are free to use, modify, and distribute this work, provided that the license terms are respected.
 
-© 2025 Félix-Olivier Dumas  
-All rights reserved unless otherwise stated in the license file.
+&copy; 2025 **Félix-Olivier Dumas**  
+_All rights reserved unless otherwise stated in the license file._
+
+---
