@@ -1,4 +1,8 @@
 # Documentation
+## License
+
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+
 
 Ce document présente les différentes étapes de configuration d’un serveur Azure, depuis la mise en place de la connexion SSH jusqu’à la sécurisation avancée et l’hébergement de plusieurs sites web. Chaque section détaille les commandes à exécuter et les configurations à réaliser.
 
